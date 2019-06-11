@@ -1,5 +1,9 @@
-# Project name: Privacy-eye
-Free, open source Chrome extension for data privacy.
-Recently we published it at Chrome WebStore so people can use it right away. Download it for free at : https://chrome.google.com/webstore/search/Inpooling?authuser=1&hl=en-US&_category=extensions
+# Privacy-eye
+Privacy Eye is a browser extension that identifies any trackers used by website and shows details of cookies. It does not block any website trafic. The main purpose is for internet transparency and to educate non-tech people about data privacy.
 
-# What does the tool do?
+We published it at Chrome WebStore so people can use it right away. [Download it for free](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/)  
+
+
+# Contributing
+
+# 
