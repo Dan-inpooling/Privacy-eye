@@ -17,15 +17,15 @@ Indeed, I am concern about the data privacy because I saw a lot of companies tra
 And it aligns with Inpooling's mission - creating an ecosystem for data privacy!
 
 # Contributing
-We're glad you want to help! Please see our [contribution guide.](docs/CONTRIBUTING.md).
+We're glad you want to help! Please see our [contribution guide.](docs/CONTRIBUTING.md)
 
 # Getting in touch
 Besides using our issue tracker here, you could join the [PrivacyEye Developer mailing list.](https://groups.google.com/a/inpooling.com/d/forum/privacyeye).
 
 # License
-Privacy Eye is licenced under the MIT. See [License](docs/LICENSE.md).
+Privacy Eye is licenced under the MIT. See [License](docs/LICENSE.md)
 
-Privacy Eye is a project of [Inpooling - Data Privacy Guardian](www.inpooling.com)
+Privacy Eye is a project of [Inpooling - Data Privacy Guardian](https://inpooling.com/welcome)
 
 # About us
 Inpooling’s mission is to build a data privacy ecosystem, where consumer privacy and business growth are well balanced and proliferating together! Follow us on [Twitter](https://twitter.com/inpooling) to know more about our data privacy project .
