@@ -13,7 +13,7 @@ If your answer is yes to either of the questions, then this tool is useful for y
 # Why did we create this tool?
 It came from my personal experience. A close friend asked me why I wanted to work on data privacy. For her, most people do not even care about it. She was not the first one who told me this. Even myself, before getting into the cyber world, I was not that much into data privacy. But I definitely do now. Why? Aristotle knows best the answer - "The more you know, the more you know you don't know!". 
 
-Indeed, I am concern about the data privacy because I saw a lot of companies tracking users with hundreds of marketing/advertisement cookies, because I saw how vulnerable companies' network could be, because even big companies like Google or Facebook got hacked... After surveying with users, we decided to create Privacy Eye, a free and open source tool to "decrypt" the internet and show people easily what's behind each website - an educational tool for privacy awareness!
+Indeed, I am concern about data privacy because I saw a lot of companies tracking users with hundreds of marketing/advertisement cookies, because I saw how vulnerable companies' network could be, because even big companies like Google or Facebook got hacked... After talking with users, we decided to create Privacy Eye, a free and open source tool to "decrypt" the internet and show people easily what's behind each website - an educational tool for privacy awareness!
 And it aligns with Inpooling's mission - creating an ecosystem for data privacy!
 
 # Contributing
