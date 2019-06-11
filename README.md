@@ -17,13 +17,13 @@ Indeed, I am concern about the data privacy because I saw a lot of companies tra
 And it aligns with Inpooling's mission - creating an ecosystem for data privacy!
 
 # Contributing
-We're glad you want to help! Please see our [contribution guide.](docs/CONTRIBUTING.md)
+We're glad you want to help! Please see our [contribution guide.](https://github.com/Dan-inpooling/Privacy-eye/blob/master/CONTRIBUTING.md)
 
 # Getting in touch
 Besides using our issue tracker here, you could join the [PrivacyEye Developer mailing list.](https://groups.google.com/a/inpooling.com/d/forum/privacyeye).
 
 # License
-Privacy Eye is licenced under the MIT. See [License](docs/LICENSE.md)
+Privacy Eye is licenced under the MIT. See [License](https://github.com/Dan-inpooling/Privacy-eye/blob/master/LICENSE)
 
 Privacy Eye is a project of [Inpooling - Data Privacy Guardian](https://inpooling.com/welcome)
 
