@@ -5,7 +5,7 @@ Privacy Eye is a browser extension that identifies any trackers used by a websit
 
 # Getting started
 We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock! [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
-
+![alt text](https://github.com/Dan-inpooling/Privacy-eye/blob/master/Privacy%20Eye%20Screenshot%201280x800.png)
 # Why is this tool useful?
 - Are you a tech guru but so desperate to educate your family & friends about digital data privacy awareness?
 - Are you tired of data breach news or want to gain the control back on your data?
