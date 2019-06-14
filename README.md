@@ -2,7 +2,7 @@
 Privacy Eye is a browser extension that identifies any trackers used by a website and shows the number and duration of hidden 3rd party cookies - aka "Anatomy of the Internet". It does not block website traffic, or store any user data. The main purpose is to improve internet transparency and raise privacy awareness for non-tech users. 
 
 # Difference with other privacy tools (PrivacyBadger, uBlock, AdBlock...)
-If you are a developer, have you tried to install privacy tools on your non-tech beloved ones? If yes, you are probably familiar with these reactions - "What did you do? All the websites are broken!", "No, I don't need it. I know how to use internet", "Cookies? Trackers? What are you talking about?", "I don't need these gadgets. They are for nerdy people like you"...Tools designed for tech users can only make non-tech people feel stupid and irritated.
+If you are a developer, have you tried to install privacy tools for your non-tech beloved ones? If yes, you are probably familiar with these reactions - "What did you do? All the websites are broken!", "No, I don't need it. I know how to use internet", "Cookies? Trackers? What are you talking about?", "I don't need these gadgets. They are for nerdy people like you"...Tools designed for tech users can only make non-tech people feel dumb and irritated.
 
 Privacy Eye is different - it is primitive and shows the information in the way that only non-tech users would care. Our beta users told us they were addicted and felt like having secret power. That's what Privacy Eye does - educating people about privacy with respect and fun.  
 
