@@ -9,7 +9,7 @@ Privacy Eye is different - it is intuitive and shows the information in the way 
 If you want to introduce Privacy Eye to your beloved ones, you can say "Do you want to sneak peek what's behind your favorite news website?"
 
 # Getting started
-We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock! [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
+We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock! [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) https://media.giphy.com/media/h5Q48xOLRXWcdrJeVy/giphy.gif
 ![alt text](https://github.com/Dan-inpooling/Privacy-eye/blob/master/Privacy%20Eye%20Screenshot%201280x800.png)
 
 # Why is this tool useful?
