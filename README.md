@@ -3,6 +3,7 @@ Privacy Eye is a browser extension that identifies any trackers used by a websit
 
 ![](https://github.com/Dan-inpooling/Privacy-eye/blob/master/PrivacyEye%20Gifs.gif) 
 
+
 # Difference with other privacy tools (PrivacyBadger, uBlock, AdBlock...)
 If you are a developer, have you tried to install privacy tools for your non-tech beloved ones? If yes, you are probably familiar with these reactions - "What did you do? All the websites are broken!", "No, I don't need it. I know how to use internet", "Cookies? Trackers? What are you talking about?", "I don't need these gadgets. They are for nerdy people like you"...Before non-tech users really understand how the internet works, advanced tools can only make them feel dumb and irritated. 
 
