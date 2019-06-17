@@ -31,9 +31,9 @@ We're glad you want to help! Please see our [contribution guide.](https://github
 Besides using our issue tracker here, you could join the [PrivacyEye Developer mailing list.](https://groups.google.com/a/inpooling.com/d/forum/privacyeye)
 
 # License
-Privacy Eye is licensed under the MIT. See [License](https://github.com/Dan-inpooling/Privacy-eye/blob/master/LICENSE)
+Privacy Eye is licensed under the MIT. See [License](https://github.com/Dan-inpooling/Privacy-eye/blob/master/LICENSE).
 
-Privacy Eye is a project of [Inpooling - Data Privacy Guardian](https://inpooling.com/welcome)
+Privacy Eye is a project of [Inpooling - Data Privacy Guardian](https://inpooling.com/welcome).
 
 # About us
 Inpooling’s mission is to build a data privacy ecosystem, where consumer privacy and business growth are well balanced and proliferating together! Follow us on [Twitter](https://twitter.com/inpooling) to know more about our data privacy project.
