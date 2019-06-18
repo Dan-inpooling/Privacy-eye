@@ -1,5 +1,5 @@
 # Privacy-eye
-Privacy Eye is a browser extension that identifies any trackers used by a website and shows the number and duration of hidden 3rd party cookies - aka "Anatomy of the Internet". It does not block website traffic, or store any user data. The main purpose is to improve internet transparency and raise privacy awareness for non-tech users. [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
+Privacy Eye is a browser extension that identifies any trackers used by a website and shows the number and duration of hidden 3rd party cookies - aka "Anatomy of the Internet". It does not block website traffic, or store any user data. The main purpose is to improve internet transparency and raise privacy awareness for non-tech users. [Check it out here!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
 
 ![](https://github.com/Dan-inpooling/Privacy-eye/blob/master/PrivacyEye%20Gifs.gif) 
 
@@ -12,7 +12,8 @@ Privacy Eye is different - it is intuitive and shows the information in the way 
 If you want to introduce Privacy Eye to your beloved ones, you can say "Do you want to sneak peek what's behind your favorite news website?"
 
 # Getting started
-We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock!
+We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock! [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
+
 
 # Why is this tool useful?
 - Are you a tech guru but so desperate to educate your family & friends about digital data privacy awareness?
