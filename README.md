@@ -1,5 +1,5 @@
 # Privacy-eye
-Privacy Eye is a browser extension that identifies any trackers used by a website and shows the number and duration of hidden 3rd party cookies - aka "Anatomy of the Internet". It does not block website traffic, or store any user data. The main purpose is to improve internet transparency and raise privacy awareness for non-tech users. 
+Privacy Eye is a browser extension that identifies any trackers used by a website and shows the number and duration of hidden 3rd party cookies - aka "Anatomy of the Internet". It does not block website traffic, or store any user data. The main purpose is to improve internet transparency and raise privacy awareness for non-tech users. [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
 
 ![](https://github.com/Dan-inpooling/Privacy-eye/blob/master/PrivacyEye%20Gifs.gif) 
 
@@ -7,12 +7,12 @@ Privacy Eye is a browser extension that identifies any trackers used by a websit
 # Difference with other privacy tools (PrivacyBadger, uBlock, AdBlock...)
 If you are a developer, have you tried to install privacy tools for your non-tech beloved ones? If yes, you are probably familiar with these reactions - "What did you do? All the websites are broken!", "No, I don't need it. I know how to use internet", "Cookies? Trackers? What are you talking about?", "I don't need these gadgets. They are for nerdy people like you"...Before non-tech users really understand how the internet works, advanced tools can only make them feel dumb and irritated. 
 
-Privacy Eye is different - it is intuitive and shows the information in the way that only non-tech users would care. Our beta users told us they enjoyed the new discovery and felt like having secret power. That's what Privacy Eye does - educating people about privacy with respect and fun.  
+Privacy Eye is different - it is intuitive and shows the information in the way that not only tech savvy cares but also straightforward to interest normal users. Our beta users told us they enjoyed the new discovery and felt like having secret power. That's what Privacy Eye does - educating people about privacy with respect and fun.  
 
 If you want to introduce Privacy Eye to your beloved ones, you can say "Do you want to sneak peek what's behind your favorite news website?"
 
 # Getting started
-We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock! [Download it here for free!](https://inpooling.com/blog/privacy-eye-free-and-open-source-browser-extension-for-data-privacy/) 
+We published it at Chrome WebStore so people can use it right away. No prerequisites needed. Simply download it to your Chrome browser, then you are ready to rock!
 
 # Why is this tool useful?
 - Are you a tech guru but so desperate to educate your family & friends about digital data privacy awareness?
